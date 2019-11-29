@@ -1,0 +1,244 @@
+career-stats-settings:
+    data:
+        initialVisited: true
+        welcomedSeason: 9
+    schemaVersion: 1
+champ-grid-settings:
+    data:
+        sortOrder: "byMastery"
+    schemaVersion: 1
+champ-select:
+    data:
+        skins:
+            110: 110000
+            115: 115000
+            117: 117000
+            119: 119000
+            126: 126000
+            133: 133000
+            142: 142000
+            145: 145000
+            15: 15000
+            157: 157000
+            17: 17000
+            18: 18001
+            202: 202000
+            21: 21000
+            22: 22000
+            222: 222000
+            235: 235000
+            236: 236004
+            268: 268000
+            27: 27000
+            29: 29007
+            30: 30000
+            36: 36000
+            4: 4000
+            42: 42000
+            429: 429002
+            432: 432000
+            45: 45000
+            498: 498003
+            51: 51011
+            518: 518000
+            54: 54000
+            55: 55000
+            555: 555000
+            67: 67010
+            69: 69000
+            74: 74000
+            81: 81005
+            82: 82000
+            83: 83000
+            86: 86000
+            9: 9000
+        spells:
+            1200:
+            - 11
+            - 4
+            400:
+            - 7
+            - 4
+            420:
+            - 7
+            - 4
+            430:
+            - 7
+            - 4
+            440:
+            - 7
+            - 4
+            450:
+            - 14
+            - 32
+            700:
+            - 7
+            - 4
+            840:
+            - 12
+            - 14
+            900:
+            - 1
+            - 4
+    schemaVersion: 1
+clash-tutorial:
+    data:
+        captainInviteStep: true
+        captainLockinStep: true
+        captainRewardStep: true
+        captainRoleStep: true
+        captainTicketStep: true
+        initialized: true
+        memberJoinTeamStep: true
+        memberLockinStep: true
+        memberRewardStep: true
+        memberRoleStep: true
+        memberTicketStep: true
+        rosterDetailsModalLogoStep: true
+        rosterDetailsModalNameTagStep: true
+        smsButtonStep: true
+        version: 2
+    schemaVersion: 1
+closed-conversations:
+    data:
+        closedJson: "{\r\n    \"13251306\": 1479325888308,\r\n    \"16341026\": 1479325897867,\r\n    \"487984\": 1479325905394\r\n}"
+    schemaVersion: 0
+custom-spell-selections:
+    data:
+        custom-spell-selections:
+            spell1: 7
+            spell2: 4
+    schemaVersion: 0
+emotes:
+    data:
+        newEmotes:
+        - 3004
+        - 3409
+        - 3343
+        - 3003
+        - 3002
+    schemaVersion: 1
+eos-2018-bell-notification:
+    data:
+        notificationShown: 3
+    schemaVersion: 1
+eos-2018-tooltip:
+    data:
+        shown: "Y"
+    schemaVersion: 1
+eos-2019-bell-notification_SR_1:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_SR_2:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+eos-2019-bell-notification_SR_3:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+lol-chat:
+    data:
+        chatFilterDisabled: true
+        linkClickWarningEnabled: null
+    schemaVersion: 0
+lol-clash:
+    data:
+        clash-login-modal-seen: true
+    schemaVersion: 1
+lol-collection-champions:
+    data:
+        lastVisitTime: 1574726982026
+    schemaVersion: 1
+lol-collection-summoner-icons:
+    data:
+        groupingDropdownKey: "groupByTier"
+        lastVisitTime: 1574385007657
+        sortingDropdownKey: "tierDescending"
+    schemaVersion: 1
+lol-honor:
+    data:
+        dayOneSeen: true
+    schemaVersion: 1
+lol-leagues:
+    data:
+        betterRewardsDayOneSeen: true
+        last-split-end-notification: 9.300000
+        season-memorial-modal: 9
+    schemaVersion: 1
+lol-loot:
+    data:
+        betterRewardsDayOneSeen: true
+    schemaVersion: 1
+lol-notifications:
+    data:
+        disableEsportsNotifications: true
+        rgmNotificationTimestamp: 1572284054215
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: false
+        hasSkippedTutorialPath: false
+        shouldSeeNewPlayerExperience: false
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        autoJoin: true
+        inputMode: "voiceActivity"
+        muteOnConnect: false
+        pushToTalkKey: "[v]"
+        showFirstExperienceInGame: false
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-regalia:
+    data:
+        regalia-login-modal-seen: true
+    schemaVersion: 1
+lol-revivals:
+    data:
+        isEligible: false
+        isFirstTouch: false
+    schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "allSkins"
+        lastVisitTime: 1572626653901
+        sortingDropdownKey: "releaseDateDescending"
+    schemaVersion: 1
+lol-tft:
+    data:
+        previouslySeenSeasons: "S2_WarOfElements"
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        Map11_URF_TutorialSeen: true
+        Map20_ODYSSEY_TutorialSeen: true
+        Map21_GAMEMODEX_TutorialSeen: true
+        Map22_TFT_TutorialSeen: true
+        championSelectRunesTooltipSeenCount: 10
+        championSelectSkinPurchaseNotificationDisplayed: true
+        emotesTutotorialModalDisplayed: true
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksSecondaryPathSeen: true
+        perksStatModsSeen: true
+        rpChangeEatDisplayed: true
+        secondArcadeEventNotificationDisplayed: true
+        thirdArcadeEventNotificationDisplayed: true
+    schemaVersion: 1
+parties-settings:
+    data:
+        Parties:
+            defaultPartyType: "open"
+    schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2019-11-17T16:44:20.023Z"
+    schemaVersion: 1

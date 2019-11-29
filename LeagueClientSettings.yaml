@@ -1,0 +1,66 @@
+install:
+    game-settings:
+        accountId: 209100988
+        modified: false
+        timestamp: 1574972764865
+    gameflow-patcher-lock: null
+    gameflow-process-info: null
+    gameflow-spectate-reconnect-info: null
+    globals:
+        locale: "pt_BR"
+        region: "BR"
+    icon_version: 2
+    last-valid-login-splash:
+        theme: "worlds2019"
+        version: "1.60"
+    lcu-settings:
+        accountId: 209100988
+        modified: false
+        timestamp: 1574819099103
+    licensesAgreedTo:
+        4D57BB33457090161FE3126E3DB346F9: null
+        548EEEF67B4BD697A29670B9B4CACB3F: null
+        87BEA53ED9BAE0A0952904BE9A0E9C77: null
+        C316223E0402D00F535E0E41CAD27ECE: null
+        E54967494CBCB975F2D75CCA797AD277: null
+    login-remember-me:
+        rememberMe: true
+        username: "leobastiani"
+    npe-splash:
+        enableNewPlayerSplash: false
+    patcher:
+        client_migrated: true
+        client_patcher_available: true
+        client_patcher_migrated_time: "2019-06-05T18:18:15Z"
+        game_migrated: true
+        game_patcher_available: true
+        game_patcher_migrated_time: "2019-05-03T19:10:20Z"
+        locales:
+        - "en_GB"
+        - "es_MX"
+        - "pt_BR"
+        toggles:
+            concurrent_manifest: 4259014442
+            new_client_patcher: 0
+            new_game_patcher: 0
+    perks-settings:
+        accountId: 209100988
+        modified: false
+        timestamp: 1574971061373
+    riotclient-upgrade:
+        aux-environment: "live"
+        installer-decrypt-key: "ZuV40vGHTGYoUCpx"
+        installer-filename: "rc-win.enc"
+        seq-install-attempts: 0
+        seq-success-count: 141
+        success-count: 141
+        total-install-attempts: 1
+        uninstaller-repaired: true
+        upgrade-ready: false
+    rso-auth:
+        install-identifier: "91c7560ca08129499b87b09d88baf28c"
+    splash:
+        disableAnimation: true
+    telemetry:
+        fresh_installation: false
+        installation_id: "kwsf4w=="

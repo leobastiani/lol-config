@@ -1,0 +1,88 @@
+GeoInfo:
+    data:
+        city: "jau"
+        country: "bra"
+        region: "sp"
+    schemaVersion: 1
+lol-audio:
+    data:
+        loginMusicEnabled: false
+        masterVolume: 10
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_141"
+        - "registration_open_tournament_241"
+        - "registration_open_tournament_261"
+        - "lock_in_open_tournament_261_phase_221"
+        - "lock_in_open_tournament_241_phase_201"
+    schemaVersion: 1
+lol-collection-champions:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVBQc3k1UHItSDFWNFY4Q2hFQUFWdyIsInN1YiI6ImE5YWI2YmY3LWY3NzYtNTNhOS04ZDdmLTZlNzZkZmM1Mzc0MiIsImNvdW50cnkiOiJpcmwiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MjA5MTAwOTg4LCJjcGlkIjoiQlIxIiwidWlkIjoyMDkxMDA5ODgsInVuYW1lIjoiTGVvbmFyZG9CYXN0aWFuaSIsInB0cmlkIjpudWxsLCJwaWQiOiJCUjEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6InB0X0JSIiwibm9uY2UiOiJsSWh2WERLVFhCa3lVdEE1NExscnNBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwiZXhwIjoxNTc1MDU2OTM4LCJpYXQiOjE1NzQ5NzA1MzgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTGVvYmFzdGlhbmkiLCJ0YWdfbGluZSI6IkJSIn0sImp0aSI6Ilhuc0gzZ2t3eTVNIiwibG9naW5fY291bnRyeSI6ImJyYSJ9.Pv2D58wxSJG_LCeMc0jsMHfBSU8M6z7MCVA9nhl2VtYW9QVCX8-alHdU2OSQNbFJt_rhsar0oLp3RxHfAs7IlG5McQhifJbTAp_tEJAcSSfdnifgpLfI49xD1rQ76B8iFWJ-UNvW35fsXpQbJheW7MatjRC3BXfxtkbyD-r0ZeI"
+        lastVisitTime: 1574726982026
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-collection-chromas:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVBQc3k1UHItSDFWNFY4Q2hFQUFWdyIsInN1YiI6ImE5YWI2YmY3LWY3NzYtNTNhOS04ZDdmLTZlNzZkZmM1Mzc0MiIsImNvdW50cnkiOiJpcmwiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MjA5MTAwOTg4LCJjcGlkIjoiQlIxIiwidWlkIjoyMDkxMDA5ODgsInVuYW1lIjoiTGVvbmFyZG9CYXN0aWFuaSIsInB0cmlkIjpudWxsLCJwaWQiOiJCUjEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6InB0X0JSIiwibm9uY2UiOiJsSWh2WERLVFhCa3lVdEE1NExscnNBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwiZXhwIjoxNTc1MDU2OTM4LCJpYXQiOjE1NzQ5NzA1MzgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTGVvYmFzdGlhbmkiLCJ0YWdfbGluZSI6IkJSIn0sImp0aSI6Ilhuc0gzZ2t3eTVNIiwibG9naW5fY291bnRyeSI6ImJyYSJ9.Pv2D58wxSJG_LCeMc0jsMHfBSU8M6z7MCVA9nhl2VtYW9QVCX8-alHdU2OSQNbFJt_rhsar0oLp3RxHfAs7IlG5McQhifJbTAp_tEJAcSSfdnifgpLfI49xD1rQ76B8iFWJ-UNvW35fsXpQbJheW7MatjRC3BXfxtkbyD-r0ZeI"
+        lastVisitTime: 1574970544119
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-collection-summoner-icons:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVBQc3k1UHItSDFWNFY4Q2hFQUFWdyIsInN1YiI6ImE5YWI2YmY3LWY3NzYtNTNhOS04ZDdmLTZlNzZkZmM1Mzc0MiIsImNvdW50cnkiOiJpcmwiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MjA5MTAwOTg4LCJjcGlkIjoiQlIxIiwidWlkIjoyMDkxMDA5ODgsInVuYW1lIjoiTGVvbmFyZG9CYXN0aWFuaSIsInB0cmlkIjpudWxsLCJwaWQiOiJCUjEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6InB0X0JSIiwibm9uY2UiOiJsSWh2WERLVFhCa3lVdEE1NExscnNBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwiZXhwIjoxNTc1MDU2OTM4LCJpYXQiOjE1NzQ5NzA1MzgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTGVvYmFzdGlhbmkiLCJ0YWdfbGluZSI6IkJSIn0sImp0aSI6Ilhuc0gzZ2t3eTVNIiwibG9naW5fY291bnRyeSI6ImJyYSJ9.Pv2D58wxSJG_LCeMc0jsMHfBSU8M6z7MCVA9nhl2VtYW9QVCX8-alHdU2OSQNbFJt_rhsar0oLp3RxHfAs7IlG5McQhifJbTAp_tEJAcSSfdnifgpLfI49xD1rQ76B8iFWJ-UNvW35fsXpQbJheW7MatjRC3BXfxtkbyD-r0ZeI"
+        lastVisitTime: 1574385007657
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-collection-ward-skins:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVBQc3k1UHItSDFWNFY4Q2hFQUFWdyIsInN1YiI6ImE5YWI2YmY3LWY3NzYtNTNhOS04ZDdmLTZlNzZkZmM1Mzc0MiIsImNvdW50cnkiOiJpcmwiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MjA5MTAwOTg4LCJjcGlkIjoiQlIxIiwidWlkIjoyMDkxMDA5ODgsInVuYW1lIjoiTGVvbmFyZG9CYXN0aWFuaSIsInB0cmlkIjpudWxsLCJwaWQiOiJCUjEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6InB0X0JSIiwibm9uY2UiOiJsSWh2WERLVFhCa3lVdEE1NExscnNBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwiZXhwIjoxNTc1MDU2OTM4LCJpYXQiOjE1NzQ5NzA1MzgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTGVvYmFzdGlhbmkiLCJ0YWdfbGluZSI6IkJSIn0sImp0aSI6Ilhuc0gzZ2t3eTVNIiwibG9naW5fY291bnRyeSI6ImJyYSJ9.Pv2D58wxSJG_LCeMc0jsMHfBSU8M6z7MCVA9nhl2VtYW9QVCX8-alHdU2OSQNbFJt_rhsar0oLp3RxHfAs7IlG5McQhifJbTAp_tEJAcSSfdnifgpLfI49xD1rQ76B8iFWJ-UNvW35fsXpQbJheW7MatjRC3BXfxtkbyD-r0ZeI"
+        lastVisitTime: 1574970544112
+        visitedCollectibleList: []
+    schemaVersion: 1
+lol-leagues:
+    data:
+        season-start-takeover:
+            season: 9
+    schemaVersion: 1
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "{0.0.1.00000000}.{2843c0b7-d668-4a6a-ae8b-91feace20328}"
+        inputVolume: 100
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoicVBQc3k1UHItSDFWNFY4Q2hFQUFWdyIsInN1YiI6ImE5YWI2YmY3LWY3NzYtNTNhOS04ZDdmLTZlNzZkZmM1Mzc0MiIsImNvdW50cnkiOiJpcmwiLCJhbXIiOlsicGFzc3dvcmQiXSwiaXNzIjoiaHR0cHM6XC9cL2F1dGgucmlvdGdhbWVzLmNvbSIsImxvbCI6W3siY3VpZCI6MjA5MTAwOTg4LCJjcGlkIjoiQlIxIiwidWlkIjoyMDkxMDA5ODgsInVuYW1lIjoiTGVvbmFyZG9CYXN0aWFuaSIsInB0cmlkIjpudWxsLCJwaWQiOiJCUjEiLCJzdGF0ZSI6IkVOQUJMRUQifV0sImxvY2FsZSI6InB0X0JSIiwibm9uY2UiOiJsSWh2WERLVFhCa3lVdEE1NExscnNBIiwiYXVkIjoibG9sIiwiYWNyIjoidXJuOnJpb3Q6YnJvbnplIiwiZXhwIjoxNTc1MDU2OTM4LCJpYXQiOjE1NzQ5NzA1MzgsImFjY3QiOnsiZ2FtZV9uYW1lIjoiTGVvYmFzdGlhbmkiLCJ0YWdfbGluZSI6IkJSIn0sImp0aSI6Ilhuc0gzZ2t3eTVNIiwibG9naW5fY291bnRyeSI6ImJyYSJ9.Pv2D58wxSJG_LCeMc0jsMHfBSU8M6z7MCVA9nhl2VtYW9QVCX8-alHdU2OSQNbFJt_rhsar0oLp3RxHfAs7IlG5McQhifJbTAp_tEJAcSSfdnifgpLfI49xD1rQ76B8iFWJ-UNvW35fsXpQbJheW7MatjRC3BXfxtkbyD-r0ZeI"
+        lastVisitTime: 1572626653901
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadUxInGameEnabled: false
+    schemaVersion: 2
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2019-04-09T19:23:48.015Z"
+    schemaVersion: 1
+video:
+    data:
+        ZoomScale: 1
+    schemaVersion: 1
