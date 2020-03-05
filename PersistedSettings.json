@@ -204,7 +204,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "9.23.3089"
+                            "value": "10.3.1028"
                         },
                         {
                             "name": "CursorOverride",
@@ -256,7 +256,7 @@
                         },
                         {
                             "name": "TargetChampionsOnlyAsToggle",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ThemeMusic",
@@ -321,7 +321,11 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.1700"
+                            "value": "0.0100"
+                        },
+                        {
+                            "name": "GlobalScaleReplay",
+                            "value": "1.0000"
                         },
                         {
                             "name": "HideEnemySummonerEmotes",
@@ -341,7 +345,7 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "224"
+                            "value": "248"
                         },
                         {
                             "name": "ItemShopPrevY",
@@ -404,12 +408,24 @@
                             "value": "1.0000"
                         },
                         {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "ScrollSmoothingEnabled",
                             "value": "0"
                         },
                         {
                             "name": "ShowAllChannelChat",
                             "value": "1"
+                        },
+                        {
+                            "name": "ShowAllChannelChatSpectator",
+                            "value": "0"
                         },
                         {
                             "name": "ShowAlliedChat",
@@ -563,7 +579,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.7500"
+                            "value": "1.0000"
                         },
                         {
                             "name": "SfxMute",

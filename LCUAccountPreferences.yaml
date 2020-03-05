@@ -13,7 +13,7 @@ champ-select:
             110: 110000
             115: 115000
             117: 117000
-            119: 119000
+            119: 119001
             126: 126000
             133: 133000
             142: 142000
@@ -28,6 +28,7 @@ champ-select:
             222: 222000
             235: 235000
             236: 236004
+            238: 238000
             268: 268000
             27: 27000
             29: 29007
@@ -37,10 +38,13 @@ champ-select:
             42: 42000
             429: 429002
             432: 432000
+            44: 44000
             45: 45000
             498: 498003
             51: 51011
+            516: 516000
             518: 518000
+            523: 523000
             54: 54000
             55: 55000
             555: 555000
@@ -78,8 +82,11 @@ champ-select:
             - 12
             - 14
             900:
-            - 1
+            - 14
             - 4
+            920:
+            - 31
+            - 30
     schemaVersion: 1
 clash-tutorial:
     data:
@@ -112,6 +119,7 @@ custom-spell-selections:
 emotes:
     data:
         newEmotes:
+        - 997
         - 3004
         - 3409
         - 3343
@@ -146,15 +154,19 @@ lol-chat:
 lol-clash:
     data:
         clash-login-modal-seen: true
+        clash-start-modal-seen: true
     schemaVersion: 1
 lol-collection-champions:
     data:
-        lastVisitTime: 1574726982026
+        groupingDropdownKey: ""
+        lastVisitTime: 1582986114586
+        sortingDropdownKey: ""
+        unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
     data:
         groupingDropdownKey: "groupByTier"
-        lastVisitTime: 1574385007657
+        lastVisitTime: 1575935753500
         sortingDropdownKey: "tierDescending"
     schemaVersion: 1
 lol-honor:
@@ -166,6 +178,8 @@ lol-leagues:
         betterRewardsDayOneSeen: true
         last-split-end-notification: 9.300000
         season-memorial-modal: 9
+        season-start-takeover:
+            season: 10
     schemaVersion: 1
 lol-loot:
     data:
@@ -173,8 +187,8 @@ lol-loot:
     schemaVersion: 1
 lol-notifications:
     data:
-        disableEsportsNotifications: true
-        rgmNotificationTimestamp: 1572284054215
+        disableEsportsNotifications: false
+        rgmNotificationTimestamp: 1579441353889
     schemaVersion: 1
 lol-npe-tutorial-path:
     data:
@@ -207,9 +221,10 @@ lol-revivals:
     schemaVersion: 0
 lol-skins-viewer:
     data:
-        groupingDropdownKey: "allSkins"
-        lastVisitTime: 1572626653901
-        sortingDropdownKey: "releaseDateDescending"
+        groupingDropdownKey: "groupByTier"
+        lastVisitTime: 1582986114594
+        sortingDropdownKey: "groupIdDescending"
+        unownedFilter: "none"
     schemaVersion: 1
 lol-tft:
     data:
@@ -240,5 +255,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2019-11-17T16:44:20.023Z"
+        lastViewedTimestamp: "2020-02-29T14:20:31.103Z"
     schemaVersion: 1

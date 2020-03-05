@@ -208,15 +208,15 @@ page-settings:
                     isDeletable: true
                     isEditable: true
                     isValid: true
-                    lastModified: 1574971019710
+                    lastModified: 1581034059118
                     name: "NA HORA"
                     order: 2
                     primaryStyleId: 8100
                     selectedPerkIds:
                     - 8128
-                    - 8139
+                    - 8126
                     - 8138
-                    - 8135
+                    - 8106
                     - 9111
                     - 9104
                     - 5005
