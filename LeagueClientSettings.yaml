@@ -4,7 +4,7 @@ install:
     game-settings:
         accountId: 209100988
         modified: false
-        timestamp: 1581035645779
+        timestamp: 1585083678654
     gameflow-patcher-lock: null
     gameflow-process-info: null
     gameflow-spectate-reconnect-info: null
@@ -17,8 +17,8 @@ install:
         version: "1.60"
     lcu-settings:
         accountId: 209100988
-        modified: true
-        timestamp: 1582986085489
+        modified: false
+        timestamp: 1585010016005
     licensesAgreedTo:
         4D57BB33457090161FE3126E3DB346F9: null
         548EEEF67B4BD697A29670B9B4CACB3F: null
@@ -48,14 +48,14 @@ install:
     perks-settings:
         accountId: 209100988
         modified: false
-        timestamp: 1581034081048
+        timestamp: 1585081542547
     riotclient-upgrade:
         aux-environment: "live"
         installer-decrypt-key: "ZuV40vGHTGYoUCpx"
         installer-filename: "rc-win.enc"
         seq-install-attempts: 0
-        seq-success-count: 217
-        success-count: 217
+        seq-success-count: 220
+        success-count: 220
         total-install-attempts: 1
         uninstaller-repaired: true
         uninstaller-updated: true

@@ -36,7 +36,7 @@ champ-select:
             36: 36000
             4: 4000
             42: 42000
-            429: 429002
+            429: 429001
             432: 432000
             44: 44000
             45: 45000
@@ -158,9 +158,9 @@ lol-clash:
     schemaVersion: 1
 lol-collection-champions:
     data:
-        groupingDropdownKey: ""
-        lastVisitTime: 1582986114586
-        sortingDropdownKey: ""
+        groupingDropdownKey: "allChampions"
+        lastVisitTime: 1583682311984
+        sortingDropdownKey: "firstLetterAscending"
         unownedFilter: "none"
     schemaVersion: 1
 lol-collection-summoner-icons:
@@ -169,6 +169,10 @@ lol-collection-summoner-icons:
         lastVisitTime: 1575935753500
         sortingDropdownKey: "tierDescending"
     schemaVersion: 1
+lol-eternals:
+    data:
+        firstTouchModalSeen: true
+    schemaVersion: 0
 lol-honor:
     data:
         dayOneSeen: true
@@ -255,5 +259,5 @@ parties-settings:
     schemaVersion: 0
 personalized-offers:
     data:
-        lastViewedTimestamp: "2020-02-29T14:20:31.103Z"
+        lastViewedTimestamp: "2020-03-08T15:47:32.061Z"
     schemaVersion: 1
